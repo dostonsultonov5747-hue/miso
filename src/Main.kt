@@ -51,12 +51,20 @@ fun main() {
 
 //       for (i in 4..78)
 //        for ()
+    // oddiy funksia
+fun helloPrint() {
+    println("Hello world !")
+    println("Hello a Techer")
 
+}
 
+    fun sayHello(name: String) {
+        println("Hello $name")
+    }
 
-
-
-
+    fun sun(a: Int, b: Int): Int {
+        return a + b
+    }
 
 
 
