@@ -2,7 +2,8 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
 
-
+//      val n = squerte(7)
+//    println(n)
 
 //    var i = 1
 //    while (i == 3){
@@ -57,21 +58,9 @@ fun main() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     /// aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 }
+
 fun helloPrint() {
     println("Hello world !")
     println("Hello a Techer")
@@ -82,6 +71,18 @@ fun sayHello(name: String) {
     println("Hello $name")
 }
 
-fun sun(a: Int, b: Int): Int {
+fun squerte(a: Int, b: Int): Int {
     return a + b
 }
+
+
+
+
+
+
+
+
+
+
+
+
